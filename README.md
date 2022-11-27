@@ -1,2 +1,2 @@
 # maps
-Simple maps and visualizations I've made, typically using Python
+Simple maps and visualizations I've made, using Python and R.
